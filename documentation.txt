@@ -1,0 +1,13 @@
+When hiring a hero/summoning an ancient, or lvling up a hero/an ancient, update information on that hero/ancient.
+Hero Information includes:		Current Hero Lvl (integer - calculation purposes)
+								Next lvl price (Scientific notation?)
+								Upgrade (purchased, unlocked, locked - all integers for navigation purposes)
+
+Ancient information includes:	Current Ancient Lvl (integer - calculation purposes)
+								Next lvl price (Scientific notation?)
+
+
+
+
+
+############################### TODO: test it. run it. The Clicker thread should be running fine. test it.

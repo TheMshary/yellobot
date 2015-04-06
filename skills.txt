@@ -1,0 +1,10 @@
+empty, 0
+Clickstorm,1
+Powersurge,2
+LuckyStrikes,3
+MetalDetector,4
+GoldenClicks,5
+DarkRitual,6
+SuperClicks,7
+Energize,8
+Reload,9
